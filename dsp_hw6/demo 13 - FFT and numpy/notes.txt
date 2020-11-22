@@ -1,0 +1,21 @@
+
+
+
+Numpy - Numerical library for Python
+
+Documentation:
+
+http://www.numpy.org/
+
+https://docs.scipy.org/doc/numpy/user/quickstart.html
+
+https://docs.scipy.org/doc/numpy/reference/
+
+https://docs.scipy.org/doc/numpy/index.html
+
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.set_printoptions.html
+
+
+Documentation for the FFT in NumPy:
+
+http://docs.scipy.org/doc/numpy/reference/routines.fft.html

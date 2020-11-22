@@ -1,0 +1,34 @@
+
+Vibrato demos
+
+Chapter 2 of 'Audio Effects: Theory, Implementation and Application'
+
+1) Recall use of circular buffer of non-minimum length.
+
+	echo_via_circular_buffer_long.py
+
+2) Vibrato with no interpolation: 	
+
+	play_vibrato_simple.py
+
+	Effect of W. Effect of f0.
+
+3) Vibrato with interpolation: 	
+
+	play_vibrato_interpolation.py
+	
+
+Notes: 
+
+Make sure delay is 
+  1) CAUSAL
+  2) SHORTER THAN BUFFER LENGTH
+otherwise output signal will have audible artifacts.
+
+demo cosine (with fixed frequency) into vibrato effect
+	-> hear time-varying frequency
+
+To discuss:
+  Instantaneous frequency.
+
+
